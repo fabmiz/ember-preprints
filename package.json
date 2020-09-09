@@ -52,7 +52,7 @@
     "ember-cli-fake-server": "^0.3.2",
     "ember-cli-htmlbars": "^2.0.1",
     "ember-cli-htmlbars-inline-precompile": "^1.0.2",
-    "ember-cli-inject-live-reload": "1.4.1",
+    "ember-cli-inject-live-reload": "2.0.2",
     "ember-cli-inline-content": "^0.4.1",
     "ember-cli-meta-tags": "4.0.0",
     "ember-cli-moment-shim": "^3.8.0",
