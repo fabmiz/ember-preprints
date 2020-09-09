@@ -93,7 +93,7 @@
     "eslint": "^4.4.1",
     "font-awesome": "^4.7.0",
     "hint.css": "^2.5.0",
-    "liquid-fire": "^0.27.3",
+    "liquid-fire": "^0.31.0",
     "loader.js": "^4.2.3",
     "node-sass": "4.13.1",
     "pagination-pager": "^3.0.0",
